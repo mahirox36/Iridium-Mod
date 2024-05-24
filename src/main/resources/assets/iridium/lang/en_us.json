@@ -2,5 +2,7 @@
   "item.iridium.ruby": "Ruby",
   "item.iridium.raw_ruby": "Raw Ruby",
 
+  "block.iridium.ruby_ore": "Ruby Ore",
+
   "itemgroup.ruby": "Iridium"
 }

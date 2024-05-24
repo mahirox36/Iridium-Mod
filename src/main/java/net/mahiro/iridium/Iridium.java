@@ -2,6 +2,7 @@ package net.mahiro.iridium;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.mahiro.iridium.block.ModBlocks;
 import net.mahiro.iridium.item.ModItemGroups;
 import net.mahiro.iridium.item.ModItems;
 import org.slf4j.Logger;
@@ -16,5 +17,6 @@ public class Iridium implements ModInitializer {
 		LOGGER.info("Starting Initialize for "+ MOD_ID);
 		ModItemGroups.registerItemsGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

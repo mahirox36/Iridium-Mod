@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "iridium.item/ruby"
+    "layer0": "iridium:item/ruby"
   }
 }
