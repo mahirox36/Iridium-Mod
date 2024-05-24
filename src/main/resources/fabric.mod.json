@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "iridium",
+	"version": "${version}",
+	"name": "Iridium",
+	"description": "Change The Entire Gameplay of Minecraft!",
+	"authors": [
+		"Mahiro"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/iridium/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mahiro.iridium.Iridium"
+		],
+		"client": [
+			"net.mahiro.iridium.IridiumClient"
+		],
+		"fabric-datagen": [
+			"net.mahiro.iridium.IridiumDataGenerator"
+		]
+	},
+	"mixins": [
+		"iridium.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
