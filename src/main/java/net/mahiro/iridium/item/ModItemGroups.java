@@ -18,7 +18,11 @@ public class ModItemGroups {
                 //Adding the Items in the custom group
                 e.add(ModItems.raw_ruby);
                 e.add(ModItems.ruby);
+
                 e.add(ModBlocks.RUBY_ORE);
+                e.add(ModBlocks.RAW_RUBY_BLOCK);
+                e.add(ModBlocks.RUBY_BLOCK);
+
 
 
             })).build());

@@ -3,6 +3,10 @@
   "item.iridium.raw_ruby": "Raw Ruby",
 
   "block.iridium.ruby_ore": "Ruby Ore",
+  "block.iridium.ruby_block": "Ruby Block",
+  "block.iridium.raw_ruby_block": "Raw Ruby Block",
+
+  "blocks.iridium.aetherium_core": "Aetherium Reactor Core",
 
   "itemgroup.ruby": "Iridium"
 }
