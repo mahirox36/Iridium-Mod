@@ -23,6 +23,8 @@ public class ModItemGroups {
                 e.add(ModBlocks.RAW_RUBY_BLOCK);
                 e.add(ModBlocks.RUBY_BLOCK);
 
+                e.add(ModBlocks.AET_CORE);
+
 
 
             })).build());

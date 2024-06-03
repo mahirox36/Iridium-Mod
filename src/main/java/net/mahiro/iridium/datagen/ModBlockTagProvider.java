@@ -21,6 +21,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
     protected void configure(RegistryWrapper.WrapperLookup arg) {
         getOrCreateTagBuilder(ModTags.Blocks.METAL_DETECTOR_DETECTABLE_BLOCKS)
                 .add(ModBlocks.RUBY_ORE)
+                .add(ModBlocks.AET_CORE)
                 .forceAddTag(BlockTags.GOLD_ORES)
                 .forceAddTag(BlockTags.EMERALD_ORES)
                 .forceAddTag(BlockTags.REDSTONE_ORES)

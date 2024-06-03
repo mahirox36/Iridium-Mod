@@ -1,0 +1,5 @@
+// 1.20.1	2024-06-02T09:41:35.2235931	Iridium/Tags for minecraft:block
+0b91c706cd48663590dd7f0fd23818fcababb61d data\minecraft\tags\blocks\needs_iron_tool.json
+1c14c9e17deabc26b7954a032704f700fef2ff48 data\iridium\tags\blocks\metal_detector_detectable_blocks.json
+7613ecd859ff097591cc0c917d453d5509eb2e3b data\minecraft\tags\blocks\needs_stone_tool.json
+e7373fd4d378d8af053384b2fa88c12b22f58f53 data\minecraft\tags\blocks\mineable\pickaxe.json

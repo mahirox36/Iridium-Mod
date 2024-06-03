@@ -6,7 +6,7 @@
   "block.iridium.ruby_block": "Ruby Block",
   "block.iridium.raw_ruby_block": "Raw Ruby Block",
 
-  "blocks.iridium.aetherium_core": "Aetherium Reactor Core",
+  "block.iridium.aetherium_core": "Aetherium Reactor Core",
 
   "itemgroup.ruby": "Iridium"
 }

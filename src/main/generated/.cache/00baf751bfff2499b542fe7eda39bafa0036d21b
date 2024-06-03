@@ -1,0 +1,15 @@
+// 1.20.1	2024-06-02T09:41:35.218015	Iridium/Model Definitions
+57b5dcf997308223dac4b10dde36b36dd55a35d1 assets\iridium\models\item\raw_ruby_block.json
+68bd4487abb0f9f3d5ba419645435186df41e557 assets\iridium\blockstates\ruby_ore.json
+e9bdef4bc11c6e4faaae499d60b7eb8aba5b0606 assets\iridium\models\item\raw_ruby.json
+8def058161b2e0bf6fa6d595387e125530104a25 assets\iridium\models\item\ruby_block.json
+6bc0792cdfd9c7ef7381c326d7a660490cb0e9c8 assets\iridium\models\block\ruby_ore.json
+b5c4351ec5ccf243bddc853328f5377dac007b74 assets\iridium\models\block\ruby_block.json
+c9a1c06aaf22e9166f8d372b1bea3036a830b885 assets\iridium\models\item\ruby.json
+46c952d4d043ad7025397d310e2190e40aa7b56a assets\iridium\models\block\raw_ruby_block.json
+acd7fc648ae01e8c6ec27be17d23e78192dbda6f assets\iridium\models\block\aetherium_core.json
+bc154fdf6f21298a3cf184f788b2c1121995e79f assets\iridium\blockstates\ruby_block.json
+cae527f5d7132e163c76babbafaab0868839a33a assets\iridium\models\item\aetherium_core.json
+e565396aa3c29899b2762889d0ef7eb89990e37a assets\iridium\blockstates\aetherium_core.json
+f41f6a0cbcb9201afede0294262c2b107b8fb6b2 assets\iridium\models\item\ruby_ore.json
+6760cfc0cc95970ff6366281139805d32addfbfe assets\iridium\blockstates\raw_ruby_block.json

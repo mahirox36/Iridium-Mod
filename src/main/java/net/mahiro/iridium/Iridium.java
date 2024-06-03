@@ -2,6 +2,7 @@ package net.mahiro.iridium;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.kyrptonaught.customportalapi.api.CustomPortalBuilder;
 import net.mahiro.iridium.block.ModBlocks;
 import net.mahiro.iridium.item.ModItemGroups;
 import net.mahiro.iridium.item.ModItems;
@@ -18,5 +19,6 @@ public class Iridium implements ModInitializer {
 		ModItemGroups.registerItemsGroups();
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
 	}
 }
