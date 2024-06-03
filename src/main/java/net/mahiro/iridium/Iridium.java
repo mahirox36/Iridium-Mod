@@ -2,7 +2,7 @@ package net.mahiro.iridium;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.kyrptonaught.customportalapi.api.CustomPortalBuilder;
+// import net.kyrptonaught.customportalapi.api.CustomPortalBuilder;
 import net.mahiro.iridium.block.ModBlocks;
 import net.mahiro.iridium.item.ModItemGroups;
 import net.mahiro.iridium.item.ModItems;
